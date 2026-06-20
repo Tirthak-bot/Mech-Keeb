@@ -1,6 +1,6 @@
-SR.NO,ITEMS,QUANTITY,UNIT PRICE,TOTAL PRICE,URL
-1,PCB,,,,
-2,1N4148 1W Zener Diode,,,,
+SR.NO,ITEMS,QUANTITY,UNIT PRICE,TOTAL PRICE(Including Shipping),URL
+1,PCB,5,$25,$125,https://www.lioncircuits.com/
+2,1N4148 1W Zener Diode,100,$0.016,$1.67,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/
 3,1N5819 1W Diode,,,,
 4,0402 100nf Capacitors SMD,,,,
 5,SK6812 Mini-E,,,,
