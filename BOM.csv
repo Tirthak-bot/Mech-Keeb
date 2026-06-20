@@ -1,10 +1,10 @@
 SR.NO,ITEMS,QUANTITY,UNIT PRICE,TOTAL PRICE(Including Shipping),URL
 1,PCB,5,$25,$125,https://www.lioncircuits.com/
 2,1N4148 1W Zener Diode,100,$0.016,$1.67,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/
-3,1N5819 1W Diode,,,,
-4,0402 100nf Capacitors SMD,,,,
-5,SK6812 Mini-E,,,,
-6,RPI PICO,,,,
+3,1N5819 1W Diode,5,$0.03,$0.15,https://robu.in/product/1n5819-1w-diode-pack-of-30/
+4,0402 100nf Capacitors SMD,100,$0.021,$2.1,https://robu.in/product/tcc0402x7r104j500at-cctc-smt-ceramic-capacitors-0402-x7r-104j100nf%C2%B15-0-rated-voltage50v-thickness0-50mm-tape/
+5,SK6812 Mini-E,200,$0.13,$27,https://desertcart.in/products/690911592
+6,RPI PICO,1,$4.1,$4.1,https://robu.in/product/raspberry-pi-pico/
 7,0.96 inch I2C OLED Display,,,,
 8,Cherry MX Style Switches,,,,
 9,EC11 Rotary Encoder,,,,
