@@ -47,7 +47,23 @@ As mentioned above, the firmware is written in python using the KMK Libraries. I
 # BOM
 |SR.NO|ITEMS|QUANTITY|UNIT PRICE|TOTAL PRICE|URL|
 |-----|-----|--------|-----------|-----------|---|
-
+|1|	PCB|	5	|$25|	$125|	https://www.lioncircuits.com/|
+|2| 1N4148 1W Zener Diode|	100|	$0.016	|$1.67	|https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/|
+|3|	1N5819 1W Diode|	5	|$0.03	|$0.15|	https://robu.in/product/1n5819-1w-diode-pack-of-30/|
+|4|	0402 100nf Capacitors SMD|	100|	$0.021|	$2.1	|https://robu.in/product/tcc0402x7r104j500at-cctc-smt-ceramic-capacitors-0402-x7r-104j100nf%C2%B15-0-rated-voltage50v-thickness0-50mm-tape/|
+|5|	SK6812 Mini-E	|200|$0.13	|$27	|https://desertcart.in/products/690911592|
+|6|	RPI PICO|	1	|$4.1	|$4.1	|https://robu.in/product/raspberry-pi-pico/|
+|7|	0.96 inch I2C OLED Display|	1|	$2.12|	$2.12	|https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-blue/|
+|8|	Cherry MX Style Switches|	2 Sets|	$16|	$32|	https://stackskb.com/store/akko-fairy-pro-switch-pack-of-45/|
+|9|	EC11 Rotary Encoder|	1	|-|	-|	Self Sourced|
+|10|	Hot Swap Sockets	|90	|$0.11|	$9.6|	https://stackskb.com/store/gateron-hotswap-sockets/|
+|11|	Keyboard Stabilizers	|1 Set| (4 + 1; 6.25U)|	$17|	$17|	https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/|
+|12|	Keycaps	|1 Set	|$14|	$14|	https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/|
+|13|	Assorted M3 Screws|	-|	-|	-|	Self Sourced|
+|14|	M3 Heat Inserts	|-|	-	|-	|Self Sourced|
+|15|	Filament Spool(For 3D Printing the case)|	1 Roll|	$8	|$11|	https://india.numakers.com/products/pla-metallic#|
+|16|	A Set of tweezers|	1 Set|	$2	|$2	|https://robu.in/product/anti-static-tweezers-6pcs-set-vetus-bga-esd/|
+||TOTAL:||			$250||	
 
 
 
